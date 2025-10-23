@@ -4,6 +4,7 @@ description: "Learn how to set up .NET projects using clean architecture princip
 date: 2025-10-04 10:00:00
 categories: [dotnet, architecture]
 tags: [dotnet, clean-architecture, project-setup]
+author: jtrumbull
 ---
 
 # Creating the solution

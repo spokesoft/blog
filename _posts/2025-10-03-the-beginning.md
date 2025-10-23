@@ -3,6 +3,7 @@ title: "The Beginning"
 description: "Discover the origins of Spokesoft and our mission to revolutionize project management for modern software teams."
 date: 2025-10-03 10:00:00
 categories: [company, about]
+author: jtrumbull
 ---
 
 **Every** great journey starts with a single step. This is ours.
